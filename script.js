@@ -183,4 +183,9 @@ skipButton.addEventListener('click', () => {
     setTimeout(() => {
         rulesModal.style.display = 'none';
     }, 300);
-});
+}
+
+);
+
+
+  
